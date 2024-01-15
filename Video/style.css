@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: #1a1a1a;
+}
+
+#fc2_footer a {
+    color: #ffffff;
+}
+
+#fc2_footer a:hover {
+    opacity: 0.5;
+}
+
+#fc2_footer a:visited {
+    color: white;
+}
+
+.content{
+    text-align: center;
+}
+
+.content p a {
+    color: white;
+}
+
+.content p a:hover {
+    opacity: 0.5;
+}
+
+.content p a:visited {
+    color: white;
+}
+
+.iframe_div iframe{
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}

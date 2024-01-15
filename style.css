@@ -3,6 +3,8 @@ html {
 }
 
 body {
+    color: #ffffff;
+    background-color: #1a1a1a;
     font-family: 'Noto Sans JP', sans-serif;
     margin: 0;
     padding: 0;
@@ -11,7 +13,20 @@ body {
     flex-direction: column;
 }
 
+#fc2_footer a {
+    color: #ffffff;
+}
+
+#fc2_footer a:hover {
+    opacity: 0.5;
+}
+
+#fc2_footer a:visited {
+    color: white;
+}
+
 .content {
+    background-color: white;
     flex: 1;
 }
 
